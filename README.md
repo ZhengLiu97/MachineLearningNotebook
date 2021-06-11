@@ -6,7 +6,7 @@ The __notebook__ directory contains ipython notebook files with theories and cod
 
 The __python__ directory contains .py files with codes and some brief annotations.   
 
-- __Language__  Python    
+__Language__  Python    
 
 ## Contributor  
 
