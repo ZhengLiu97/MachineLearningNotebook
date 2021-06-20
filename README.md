@@ -1,12 +1,10 @@
 # MachineLearningNotebook  
 
-Some basic and common machine learning algorithms' theories and codes.  
+Some basic and common machine learning algorithms' theories and codes.    
 
-The __notebook__ directory contains ipython notebook files with theories and codes.    
+## Features
 
-The __python__ directory contains .py files with codes and some brief annotations.   
-
-__Language__  Python    
+- __Language__  Python3.7+    
 
 ## Contributor  
 
